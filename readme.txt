@@ -1,3 +1,5 @@
+Website written in HTML, CSS, JavaScript, and PHP to submit, edit, and delete photos in a gallery view.
+
 header.inc
  - HTML header for all .inc files
  - links to form.js, bootstrap.min.css, jquery-3.4.1.min.js, 
