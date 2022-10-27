@@ -1,5 +1,9 @@
 ### Website written in HTML, CSS, JavaScript, and PHP to submit, edit, and delete photos in a gallery view.
 
+![Photo Submission Site](gallery_cover.png)
+
+see the demo [here](https://drive.google.com/file/d/1Og7YK43sHVNgtC0_UbgxDKwBXY_T70Mb/view?usp=sharing)
+
 header.inc
  - HTML header for all .inc files
  - links to form.js, bootstrap.min.css, jquery-3.4.1.min.js, 
